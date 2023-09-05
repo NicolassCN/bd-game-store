@@ -1,12 +1,11 @@
+# Database Project
+### Nova University of Lisbon
 
-# Projeto Base de Dados
-### Universidade Nova de Lisboa
+## Digital Game Distribution Platform
 
-## Plataforma de Distribuição Digital de Jogos
+### Description
+This project consists of creating a database for an online/offline platform that offers management of a digital game library, with an integrated store and social tools. The platform allows users to browse, obtain information about each game, users, and companies at any time.
 
-### Descrição
-Este projeto consiste na criação de uma base de dados para uma plataforma online/offline que oferece a gestão de uma biblioteca de jogos digitais, com uma loja integrada e ferramentas sociais. A plataforma permite aos utilizadores navegar, obter informações sobre cada jogo, utilizadores e empresas a qualquer momento.
-
-### Documentação Adicional
-A documentação adicional do projeto, incluindo o modelo conceitual da base de dados, diagramas de entidade-relacionamento, scripts SQL e detalhes da implementação podem ser encontrados na pasta "docs" deste repositório.
+### Additional Documentation
+Additional project documentation, including the conceptual model of the database, entity-relationship diagrams, SQL scripts, and implementation details, can be found in the "docs" folder of this repository.
 
