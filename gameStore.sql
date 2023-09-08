@@ -3,7 +3,6 @@
 -- DIGITAL GAME SERVICE PLATFORM
 -- BD PROJECT -- G107
 
---  Comments:
 
 -------------- ##
 
